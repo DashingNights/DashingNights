@@ -2,4 +2,4 @@
 
 - 📫 How to reach me: hypedkeymc@gmail.com
 - ⚡ Fun fact: Im a student
-- 🌐 https://hypedkey.net https://youtube.com/hypedkey
+- 🌐 https://about.hypedkey.net https://youtube.com/dashingnights
