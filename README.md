@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 📫 How to reach me: hypedkeymc@gmail.com
+- 📫 How to reach me: [removed]
 - ⚡ Fun fact: Im a student
-- 🌐 https://lustrecrew.net/argus
+- 🌐 https://lustrecrew.net/
