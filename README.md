@@ -2,6 +2,6 @@
 
 - 📫 How to reach me: [removed]
 - ⚡ Fun fact: Im a student
-- 🌐 https://lustrecrew.net/
+- 🌐 [removed]
 
 I MAKE REAAAALLLLLYYY STUPID STUFF
