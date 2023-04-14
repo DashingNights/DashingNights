@@ -4,8 +4,9 @@
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
-<div align="center">
   <h2 style="color: #44AEFB">⚙️ My Skills</h2>
+<div align="center">
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img  alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
   </a>
@@ -54,8 +55,9 @@
 </div>
 <br>
 <br>
-<div align="center">
   <h2 style="color: #44AEFB">📊 Statistics</h2>
+<div align="center">
+
 </div>
 <div class="stats" align="center">
 
