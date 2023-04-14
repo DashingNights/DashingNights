@@ -1,4 +1,5 @@
 <h1 style="color: #ffa81c;">🥺 Argus10q </h1>
+Full-stack Developer
 <br> 
 <br>   
 <!-- Icons Resources -->
