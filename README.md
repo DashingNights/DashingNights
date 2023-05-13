@@ -61,10 +61,10 @@ Full-stack Developer
 
 </div>
 <div class="stats" align="center">
-
+<!-- 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DashingNights&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=DashingNights&count_private=true&theme=algolia&border_radius=20)
-
+ -->
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DashingNights&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
