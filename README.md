@@ -62,7 +62,7 @@ Full-stack Developer
 </div>
 <div class="stats" align="center">
   
-[![.](https://myreadme.vercel.app/api/embed/DashingNights?panels=userstatistics,toprepositories,toplanguages,commitgraph)
+![.](https://myreadme.vercel.app/api/embed/DashingNights?panels=userstatistics,toprepositories,toplanguages,commitgraph)
   
 </div>
 
