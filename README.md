@@ -1,6 +1,8 @@
 <h1 style="color: #ffa81c;">🥺 Argus10q </h1>
 Full-stack Developer
 <br> 
+<a href="https://www.linkedin.com/in/kelvincmh/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<img src="https://img.shields.io/github/stars/DashingNights?label=Stars" alt="stars">
 <br>   
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
