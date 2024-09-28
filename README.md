@@ -57,13 +57,4 @@ Full-stack Developer
 </div>
 <br>
 <br>
-  <h2 style="color: #44AEFB">📊 Statistics</h2>
-<div align="center">
-
-</div>
-<div class="stats" align="center">
-  
-![.](https://myreadme.vercel.app/api/embed/DashingNights?panels=userstatistics,toprepositories,toplanguages,commitgraph)
-  
-</div>
 
